@@ -1,3 +1,3 @@
 # notez
 
-> note taking app built with next.js
+> note taking app built with Next.js and Theme UI
