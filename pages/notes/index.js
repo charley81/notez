@@ -11,7 +11,7 @@ export default () => {
 
   return (
     <div sx={{ variant: 'containers.page' }}>
-      <h1>My Notes</h1>
+      <h1>My Notez</h1>
 
       <div
         sx={{
